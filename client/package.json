@@ -10,7 +10,7 @@
     "lint": "eslint src",
     "analyze": "preact build --analyze"
   },
-  "author": "Akash Hamirwasia",
+  "author": "Aastha Agarwal",
   "license": "MIT",
   "eslintConfig": {
     "extends": "preact",

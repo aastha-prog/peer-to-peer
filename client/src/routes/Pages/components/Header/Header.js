@@ -21,10 +21,6 @@ function Header() {
 
   return (
     <header class="page-header">
-      <a class="brand" href="/">
-        <img src={logo} alt="Blaze" />
-        <Pill>v{pkg.version}</Pill>
-      </a>
 
       <button
         class="btn thin icon mobile-menu"

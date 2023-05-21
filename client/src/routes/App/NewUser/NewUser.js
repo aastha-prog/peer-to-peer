@@ -21,7 +21,7 @@ const registerUser = createLocalStorageDispatch('blaze', (state, e) => {
 function NewUser() {
   return (
     <main className="app-container">
-      <img src={logo} alt="Blaze" class="brand" />
+
 
       <img
         class="network-img"

@@ -14,7 +14,7 @@ const Working = () => (
   <main class="how-it-works">
     <section class="hero">
       <div>
-        <h1 class="title">How Blaze works</h1>
+        <h1 class="title">How Rapid Share works</h1>
         <h2 class="subtitle">Designed to work on any device, anywhere!</h2>
       </div>
     </section>
@@ -25,7 +25,7 @@ const Working = () => (
           <h2>Start by joining a room</h2>
           <p>
             A room is a collection of users among which you want to send/receive
-            files. Rooms in Blaze can be thought of as group chats in messaging
+            files. Rooms in Rapid Share can be thought of as group chats in messaging
             apps. Each user in a room must have a unique name for them to
             correctly join the room.
           </p>
@@ -48,7 +48,7 @@ const Working = () => (
             <Zap size={28} style="margin: 0 0 8px 4px" />
           </h2>
           <p>
-            Sending a file is easy in Blaze. Just click on the 'Send File'
+            Sending a file is easy in Rapid Share. Just click on the 'Send File'
             button at the bottom right and choose the files that you want to
             send. Once the files are selected, they would be shared with all the
             other users in that room.
@@ -82,13 +82,13 @@ const Working = () => (
         <div class="info">
           <h2>Next steps</h2>
           <p>
-            If you enjoyed using Blaze, you can add Blaze to your home screen!
-            Doing this not only makes Blaze easy to access but it also shows up
+            If you enjoyed using Rapid Share, you can add Rapid Share to your home screen!
+            Doing this not only makes Rapid Share ,easy to access but it also shows up
             in the share tray when you are sharing a file from other apps using{' '}
             <Share2 size={20} /> button.
           </p>
           <p>
-            Blaze has been tested on:
+            Rapid Share has been tested on:
             <ul class="browsers">
               <li>
                 <img src={chrome} />
