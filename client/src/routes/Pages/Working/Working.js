@@ -88,28 +88,6 @@ const Working = () => (
             <Share2 size={20} /> button.
           </p>
           <p>
-            Since Blaze is an open-source project, do consier checking out it's
-            source code, contributing bug fixes or suggesting new features that
-            can improe Blaze. If you find this project useful, consider giving
-            <a
-              href="https://github.com/blenderskool/blaze"
-              target="_blank"
-              rel="noreferrer"
-            >
-              {' '}
-              Blaze a star
-            </a>{' '}
-            or{' '}
-            <a
-              href="https://github.com/sponsors/blenderskool/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              sponsoring me
-            </a>{' '}
-            on GitHub 💚
-          </p>
-          <p>
             Blaze has been tested on:
             <ul class="browsers">
               <li>

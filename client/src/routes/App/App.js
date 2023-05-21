@@ -20,7 +20,6 @@ import JoinInstantRoom from './JoinInstantRoom/JoinInstantRoom';
 import NewUser from './NewUser/NewUser';
 import Rooms from './Rooms/Rooms';
 import Settings from './Settings/Settings';
-import Support from './Support/Support';
 
 import './app.scss';
 
@@ -96,9 +95,6 @@ export default function App() {
           </TransitionRoute>
           <TransitionRoute key="settings" path="/app/settings">
             <Settings />
-          </TransitionRoute>
-          <TransitionRoute key="support" path="/app/support">
-            <Support />
           </TransitionRoute>
           <TransitionRoute key="instant-room" path="/app/instant/join">
             <JoinInstantRoom />
